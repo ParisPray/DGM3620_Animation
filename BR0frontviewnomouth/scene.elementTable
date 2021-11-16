@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (HarmonyPremium.exe) version 21.0.0 build 17367 2021-09-01 10:26:03" version="2100" build="17367">
+ <element id="4" elementName="Breakdown" elementFolder="Breakdown" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="Trace" elementFolder="Trace" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="BunnyTurnaround" elementFolder="BunnyTurnaround" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="7" elementName="LEar" elementFolder="LEar" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="REar" elementFolder="REar" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="Mouth" elementFolder="Mouth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="Tongue" elementFolder="Tongue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="11" elementName="Cheek" elementFolder="Cheek" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Pupil_HL" elementFolder="Pupil_HL" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="Eye" elementFolder="Eye" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="Pupil" elementFolder="Pupil" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="15" elementName="Brow" elementFolder="Brow" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="16" elementName="Bandana" elementFolder="Bandana" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="17" elementName="Bandana_Back" elementFolder="Bandana_Back" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="Tie_Up" elementFolder="Tie_Up" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="Tie_Down" elementFolder="Tie_Down" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="21" elementName="Torso" elementFolder="Torso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="Upper_Arm" elementFolder="Upper_Arm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="Forearm" elementFolder="Forearm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="HandClone" elementFolder="HandClone" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="Waist" elementFolder="Waist" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="Upper_Leg" elementFolder="Upper_Leg" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="Shin" elementFolder="Shin" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="28" elementName="Shoe" elementFolder="Shoe" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="29" elementName="Crease1" elementFolder="Crease1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="30" elementName="Crease2" elementFolder="Crease2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="31" elementName="Nose" elementFolder="Nose" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="32" elementName="Pants_Line" elementFolder="Pants_Line" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="33" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
