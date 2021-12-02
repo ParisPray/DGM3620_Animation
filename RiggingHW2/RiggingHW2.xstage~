@@ -757,6 +757,18 @@
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <column type="3" name="ATV-0ADA44C999C03378" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-0.00399127197265625" y="-0.00399127197265625"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0ADA44C999C03A77" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
     <column type="3" name="ATV-0ADB5F52016165F9" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
@@ -767,13 +779,18 @@
     <column type="3" name="ATV-0ADB535A10501ED6" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
+<<<<<<< HEAD
 =======
     <column type="3" name="ATV-0ADA44C999C03378" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
+>>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-0.00399127197265625" y="-0.00399127197265625"/>
      </points>
     </column>
+<<<<<<< HEAD
     <column type="3" name="ATV-0ADA44C999C03A77" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
 >>>>>>> main
@@ -788,12 +805,27 @@
 =======
     <column type="3" name="ATV-0ADA44C999C04BFD" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+<<<<<<< HEAD
+    <column type="3" name="ATV-0ADA44C999C04BFD" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADB535A10501ED8" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <column type="3" name="ATV-0ADA44C999C0544A" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
     <column type="3" name="ATV-0ADB535A10501EDA" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
@@ -888,15 +920,24 @@
     <column type="3" name="ATV-0ADB535A10501EF4" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
+<<<<<<< HEAD
 =======
     <column type="3" name="ATV-0ADA44C999C0544A" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <column type="3" name="ATV-0ADA44C999C0554E" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
     <column type="3" name="ATV-0ADB535A10501EF6" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
@@ -914,8 +955,24 @@
     <column type="3" name="ATV-0ADB535A10501EFA" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
+<<<<<<< HEAD
 =======
     <column type="3" name="ATV-0ADA44C999C0554E" displayOrder="0" width="100" anonymous="true">
+=======
+>>>>>>> main
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+<<<<<<< HEAD
+    <column type="3" name="ATV-0ADA44C999C05AA2" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-0.1458813799309383" y="-0.1458813799309383"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0ADA44C999C05AA3" displayOrder="0" width="100" anonymous="true">
+>>>>>>> main
      <step val="1" start="1" stop="1"/>
 >>>>>>> main
      <points version="2">
@@ -923,6 +980,12 @@
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <column type="3" name="ATV-0ADA44C999C05AA4" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
     <column type="0" name="ATV-0ADB535A10501EFC" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="24">
      <elementSeq exposures="1" val="Default_00" id="24"/>
     </column>
@@ -1215,13 +1278,18 @@
     <column type="3" name="ATV-0ADB535A10502C15" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
+<<<<<<< HEAD
 =======
     <column type="3" name="ATV-0ADA44C999C05AA2" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
+>>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-0.1458813799309383" y="-0.1458813799309383"/>
      </points>
     </column>
+<<<<<<< HEAD
     <column type="3" name="ATV-0ADA44C999C05AA3" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
@@ -1236,6 +1304,12 @@
      </points>
     </column>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <column type="3" name="ATV-0ADA44C999C05AA5" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
     <column type="3" name="ATV-0ADB535A10502C16" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
@@ -1274,15 +1348,24 @@
     <column type="3" name="ATV-0ADB535A10502FB1" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
+<<<<<<< HEAD
 =======
     <column type="3" name="ATV-0ADA44C999C05AA5" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <column type="3" name="ATV-0ADA44C999C05AA6" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
     <column type="3" name="ATV-0ADB535A10502FB3" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
@@ -1293,16 +1376,23 @@
     <column type="3" name="ATV-0ADB535A10502FB5" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
+<<<<<<< HEAD
 =======
     <column type="3" name="ATV-0ADA44C999C05AA6" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <column type="3" name="ATV-0ADB535A10502FB7" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+=======
+    <column type="3" name="ATV-0ADA44C999C05B8B" displayOrder="0" width="100" anonymous="true">
+>>>>>>> main
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
@@ -1323,7 +1413,14 @@
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
+<<<<<<< HEAD
     <column type="3" name="ATV-0ADB535A10502FBD" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+=======
+    <column type="3" name="ATV-0ADA44C999C05B8E" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADB535A10502FB7" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+>>>>>>> main
      <step val="1" start="1" stop="1"/>
      <noFrames/>
 =======
@@ -1347,11 +1444,16 @@
     </column>
     <column type="3" name="ATV-0ADA44C999C05B8E" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+<<<<<<< HEAD
+=======
+     <noFrames/>
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <column type="3" name="ATV-0ADB535A10502FBF" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1359,11 +1461,20 @@
 =======
     <column type="3" name="ATV-0ADA44C999C05B8F" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADA44C999C05B8F" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADB535A10502FBF" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <column type="3" name="ATV-0ADB535A10502FC1" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1371,11 +1482,20 @@
 =======
     <column type="3" name="ATV-0ADA44C999C05B90" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADA44C999C05B90" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADB535A10502FC1" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <column type="3" name="ATV-0ADB535A10502FC3" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1383,12 +1503,34 @@
 =======
     <column type="3" name="ATV-0ADA44C999C09387" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADA44C999C09387" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+=======
+    <column type="3" name="ATV-0ADB535A10502FC3" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+>>>>>>> main
 >>>>>>> main
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+   </columns>
+   <options>
+    <defaultDisplay val="Display"/>
+   </options>
+   <rootgroup name="Top">
+    <options>
+     <collapsed val="false"/>
+    </options>
+    <nodeslist>
+     <module type="COMPOSITE" name="Composite" pos="2553,606,66" publishUnderTab="Composite">
+=======
+>>>>>>> main
     <column type="3" name="ATV-0ADB535A10502FC5" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
@@ -1498,8 +1640,11 @@
     <nodeslist>
 <<<<<<< HEAD
      <module type="COMPOSITE" name="Composite" pos="2553,606,76" publishUnderTab="Composite">
+<<<<<<< HEAD
 =======
      <module type="COMPOSITE" name="Composite" pos="2553,606,66" publishUnderTab="Composite">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -1520,9 +1665,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="DISPLAY" name="Display" pos="2618,682,75" publishUnderTab="Display">
 =======
      <module type="DISPLAY" name="Display" pos="2618,682,65" publishUnderTab="Display">
+=======
+     <module type="DISPLAY" name="Display" pos="2618,682,65" publishUnderTab="Display">
+=======
+     <module type="DISPLAY" name="Display" pos="2618,682,75" publishUnderTab="Display">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -1530,9 +1681,15 @@
       </options>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="WRITE" name="Write" pos="2518,682,87" publishUnderTab="Write">
 =======
      <module type="WRITE" name="Write" pos="2518,682,84" publishUnderTab="Write">
+=======
+     <module type="WRITE" name="Write" pos="2518,682,84" publishUnderTab="Write">
+=======
+     <module type="WRITE" name="Write" pos="2518,682,87" publishUnderTab="Write">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -1567,9 +1724,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="Grid" name="Grid" pos="1776,364,85" publishUnderTab="Grid">
 =======
      <module type="Grid" name="Grid" pos="1776,364,82" publishUnderTab="Grid">
+=======
+     <module type="Grid" name="Grid" pos="1776,364,82" publishUnderTab="Grid">
+=======
+     <module type="Grid" name="Grid" pos="1776,364,85" publishUnderTab="Grid">
+>>>>>>> main
 >>>>>>> main
       <options>
        <disabled val="true"/>
@@ -1599,9 +1762,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Composite_1" pos="1821,571,81" publishUnderTab="Composite_1">
 =======
      <module type="COMPOSITE" name="Composite_1" pos="1821,571,79" publishUnderTab="Composite_1">
+=======
+     <module type="COMPOSITE" name="Composite_1" pos="1821,571,79" publishUnderTab="Composite_1">
+=======
+     <module type="COMPOSITE" name="Composite_1" pos="1821,571,81" publishUnderTab="Composite_1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -1622,9 +1791,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Breakdown" pos="1634,382,86" publishUnderTab="Breakdown">
 =======
      <module type="READ" name="Breakdown" pos="1634,382,83" publishUnderTab="Breakdown">
+=======
+     <module type="READ" name="Breakdown" pos="1634,382,83" publishUnderTab="Breakdown">
+=======
+     <module type="READ" name="Breakdown" pos="1634,382,86" publishUnderTab="Breakdown">
+>>>>>>> main
 >>>>>>> main
       <options>
        <disabled val="true"/>
@@ -1740,9 +1915,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Trace" pos="1384,353,77" publishUnderTab="Trace">
 =======
      <module type="READ" name="Trace" pos="1384,353,74" publishUnderTab="Trace">
+=======
+     <module type="READ" name="Trace" pos="1384,353,74" publishUnderTab="Trace">
+=======
+     <module type="READ" name="Trace" pos="1384,353,77" publishUnderTab="Trace">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -1856,9 +2037,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="BunnyTurnaround" pos="2694,582,84" publishUnderTab="BunnyTurnaround">
 =======
      <module type="READ" name="BunnyTurnaround" pos="2694,582,81" publishUnderTab="BunnyTurnaround">
+=======
+     <module type="READ" name="BunnyTurnaround" pos="2694,582,81" publishUnderTab="BunnyTurnaround">
+=======
+     <module type="READ" name="BunnyTurnaround" pos="2694,582,84" publishUnderTab="BunnyTurnaround">
+>>>>>>> main
 >>>>>>> main
       <options>
        <disabled val="true"/>
@@ -1973,9 +2160,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="LEar" pos="-238,-609,60" publishUnderTab="LEar">
 =======
      <module type="READ" name="LEar" pos="-238,-610,29" publishUnderTab="LEar">
+=======
+     <module type="READ" name="LEar" pos="-238,-610,29" publishUnderTab="LEar">
+=======
+     <module type="READ" name="LEar" pos="-238,-609,60" publishUnderTab="LEar">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2089,9 +2282,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="REar" pos="-66,-609,61" publishUnderTab="REar">
 =======
      <module type="READ" name="REar" pos="-66,-609,28" publishUnderTab="REar">
+=======
+     <module type="READ" name="REar" pos="-66,-609,28" publishUnderTab="REar">
+=======
+     <module type="READ" name="REar" pos="-66,-609,61" publishUnderTab="REar">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2205,9 +2404,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Ear_Comp_1" pos="-174,-560,57" publishUnderTab="Composite_2">
 =======
      <module type="COMPOSITE" name="Ear_Comp_1" pos="-174,-558,30" publishUnderTab="Composite_2">
+=======
+     <module type="COMPOSITE" name="Ear_Comp_1" pos="-174,-558,30" publishUnderTab="Composite_2">
+=======
+     <module type="COMPOSITE" name="Ear_Comp_1" pos="-174,-560,57" publishUnderTab="Composite_2">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2228,9 +2433,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Mouth" pos="127,-616,1" publishUnderTab="Mouth">
 =======
      <module type="READ" name="Mouth" pos="192,-628,72" publishUnderTab="Mouth">
+=======
+     <module type="READ" name="Mouth" pos="192,-628,72" publishUnderTab="Mouth">
+=======
+     <module type="READ" name="Mouth" pos="127,-616,1" publishUnderTab="Mouth">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2344,9 +2555,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Tongue" pos="237,-616,30" publishUnderTab="Tongue">
 =======
      <module type="READ" name="Tongue" pos="302,-628,73" publishUnderTab="Tongue">
+=======
+     <module type="READ" name="Tongue" pos="302,-628,73" publishUnderTab="Tongue">
+=======
+     <module type="READ" name="Tongue" pos="237,-616,30" publishUnderTab="Tongue">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2460,9 +2677,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Mouth_Comp" pos="252,-531,83" publishUnderTab="Composite_3">
 =======
      <module type="COMPOSITE" name="Mouth_Comp" pos="252,-531,80" publishUnderTab="Composite_3">
+=======
+     <module type="COMPOSITE" name="Mouth_Comp" pos="252,-531,80" publishUnderTab="Composite_3">
+=======
+     <module type="COMPOSITE" name="Mouth_Comp" pos="252,-531,83" publishUnderTab="Composite_3">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2483,12 +2706,21 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Cheek" pos="523,-570,4" publishUnderTab="Cheek">
       <options>
        <disabled val="true"/>
 =======
      <module type="READ" name="Cheek" pos="523,-570,70" publishUnderTab="Cheek">
       <options>
+=======
+     <module type="READ" name="Cheek" pos="523,-570,70" publishUnderTab="Cheek">
+      <options>
+=======
+     <module type="READ" name="Cheek" pos="523,-570,4" publishUnderTab="Cheek">
+      <options>
+       <disabled val="true"/>
+>>>>>>> main
 >>>>>>> main
        <collapsed val="false"/>
        <version val="1"/>
@@ -2601,9 +2833,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Eye_Comp" pos="916,-533,16" publishUnderTab="Composite_2">
 =======
      <module type="COMPOSITE" name="Eye_Comp" pos="1162,-361,58" publishUnderTab="Composite_2">
+=======
+     <module type="COMPOSITE" name="Eye_Comp" pos="1162,-361,58" publishUnderTab="Composite_2">
+=======
+     <module type="COMPOSITE" name="Eye_Comp" pos="916,-533,16" publishUnderTab="Composite_2">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2624,9 +2862,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Bandana" pos="2300,-610,51" publishUnderTab="Bandana">
 =======
      <module type="READ" name="Pupil_HL" pos="1015,-550,62" publishUnderTab="Pupil_HL">
+=======
+     <module type="READ" name="Pupil_HL" pos="1015,-550,62" publishUnderTab="Pupil_HL">
+=======
+     <module type="READ" name="Bandana" pos="2300,-610,51" publishUnderTab="Bandana">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2687,10 +2931,16 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <element col="ATV-0AD14F92E160A619">
 =======
         <element col="ATV-0AD14F92E1609CFE">
+=======
+        <element col="ATV-0AD14F92E1609CFE">
+=======
+        <element col="ATV-0AD14F92E160A619">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -2743,10 +2993,16 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="READ" name="Bandana_Back" pos="2424,-610,64" publishUnderTab="Bandana_Back">
 =======
      <module type="READ" name="Eye" pos="1341,-619,51" publishUnderTab="Eye">
+=======
+     <module type="READ" name="Eye" pos="1341,-619,51" publishUnderTab="Eye">
+=======
+     <module type="READ" name="Bandana_Back" pos="2424,-610,64" publishUnderTab="Bandana_Back">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2807,10 +3063,16 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <element col="ATV-0AD14F92E160A676">
 =======
         <element col="ATV-0AD14F92E1609D5B">
+=======
+        <element col="ATV-0AD14F92E1609D5B">
+=======
+        <element col="ATV-0AD14F92E160A676">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -2863,10 +3125,16 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="READ" name="Tie_Up" pos="2033,-610,26" publishUnderTab="Tie_Up">
 =======
      <module type="READ" name="Pupil" pos="1153,-564,59" publishUnderTab="Pupil">
+=======
+     <module type="READ" name="Pupil" pos="1153,-564,59" publishUnderTab="Pupil">
+=======
+     <module type="READ" name="Tie_Up" pos="2033,-610,26" publishUnderTab="Tie_Up">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -2927,10 +3195,16 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <element col="ATV-0AD14F92E160A6E7">
 =======
         <element col="ATV-0AD14F92E1609DCC">
+=======
+        <element col="ATV-0AD14F92E1609DCC">
+=======
+        <element col="ATV-0AD14F92E160A6E7">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -2984,9 +3258,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Tie_Down" pos="1899,-610,65" publishUnderTab="Tie_Down">
 =======
      <module type="READ" name="Brow" pos="840,-585,61" publishUnderTab="Brow">
+=======
+     <module type="READ" name="Brow" pos="840,-585,61" publishUnderTab="Brow">
+=======
+     <module type="READ" name="Tie_Down" pos="1899,-610,65" publishUnderTab="Tie_Down">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3048,9 +3328,15 @@
        <drawing>
         <elementMode val="true"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <element col="ATV-0AD14F92E160A758">
 =======
         <element col="ATV-0AD14F92E160A442">
+=======
+        <element col="ATV-0AD14F92E160A442">
+=======
+        <element col="ATV-0AD14F92E160A758">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -3104,6 +3390,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <module type="READ" name="Bandana" pos="2497,-661,3" publishUnderTab="Bandana">
+=======
+>>>>>>> main
      <module type="COMPOSITE" name="Bandana_Comp" pos="2158,-510,82" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
@@ -3124,8 +3415,11 @@
       </attrs>
      </module>
      <module type="READ" name="Torso" pos="2803,-607,68" publishUnderTab="Torso">
+<<<<<<< HEAD
 =======
      <module type="READ" name="Bandana" pos="2497,-661,3" publishUnderTab="Bandana">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3187,9 +3481,15 @@
        <drawing>
         <elementMode val="true"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <element col="ATV-0AD14F92E160B389">
 =======
         <element col="ATV-0AD14F92E160A619">
+=======
+        <element col="ATV-0AD14F92E160A619">
+=======
+        <element col="ATV-0AD14F92E160B389">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -3243,6 +3543,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <module type="READ" name="Bandana_Back" pos="3257,-704,12" publishUnderTab="Bandana_Back">
+=======
+>>>>>>> main
      <module type="COMPOSITE" name="Arm_Comp" pos="4840,-684,24" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
@@ -3263,8 +3568,11 @@
       </attrs>
      </module>
      <module type="READ" name="Waist" pos="3300,-680,69" publishUnderTab="Waist">
+<<<<<<< HEAD
 =======
      <module type="READ" name="Bandana_Back" pos="3257,-704,12" publishUnderTab="Bandana_Back">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3325,10 +3633,16 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <element col="ATV-0AD14F92E160BD6B">
 =======
         <element col="ATV-0AD14F92E160A676">
+=======
+        <element col="ATV-0AD14F92E160A676">
+=======
+        <element col="ATV-0AD14F92E160BD6B">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -3381,10 +3695,16 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="READ" name="Crease1" pos="8785,-435,78" publishUnderTab="Crease1">
 =======
      <module type="READ" name="Tie_Up" pos="2033,-668,25" publishUnderTab="Tie_Up">
+=======
+     <module type="READ" name="Tie_Up" pos="2033,-668,25" publishUnderTab="Tie_Up">
+=======
+     <module type="READ" name="Crease1" pos="8785,-435,78" publishUnderTab="Crease1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3445,10 +3765,16 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <element col="ATV-0AD14F92E160C4ED">
 =======
         <element col="ATV-0AD14F92E160A6E7">
+=======
+        <element col="ATV-0AD14F92E160A6E7">
+=======
+        <element col="ATV-0AD14F92E160C4ED">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -3502,9 +3828,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Crease2" pos="8645,-435,79" publishUnderTab="Crease2">
 =======
      <module type="READ" name="Tie_Down" pos="1884,-668,24" publishUnderTab="Tie_Down">
+=======
+     <module type="READ" name="Tie_Down" pos="1884,-668,24" publishUnderTab="Tie_Down">
+=======
+     <module type="READ" name="Crease2" pos="8645,-435,79" publishUnderTab="Crease2">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3566,9 +3898,15 @@
        <drawing>
         <elementMode val="true"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <element col="ATV-0AD14F92E160C54A">
 =======
         <element col="ATV-0AD14F92E160A758">
+=======
+        <element col="ATV-0AD14F92E160A758">
+=======
+        <element col="ATV-0AD14F92E160C54A">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -3622,9 +3960,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Composite_2" pos="8729,-335,80" publishUnderTab="Composite_2">
 =======
      <module type="COMPOSITE" name="Bandana_Comp" pos="2114,-378,22" publishUnderTab="Composite_2">
+=======
+     <module type="COMPOSITE" name="Bandana_Comp" pos="2114,-378,22" publishUnderTab="Composite_2">
+=======
+     <module type="COMPOSITE" name="Composite_2" pos="8729,-335,80" publishUnderTab="Composite_2">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3645,8 +3989,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Master_Comp" pos="2378,383,22" publishUnderTab="Composite_3">
 =======
+=======
+>>>>>>> main
      <module type="READ" name="Torso" pos="3705,-823,44" publishUnderTab="Torso">
       <options>
        <collapsed val="false"/>
@@ -3760,6 +4107,11 @@
       </attrs>
      </module>
      <module type="COMPOSITE" name="Arm_Comp" pos="5248,-666,11" publishUnderTab="Composite_2">
+<<<<<<< HEAD
+=======
+=======
+     <module type="COMPOSITE" name="Master_Comp" pos="2378,383,22" publishUnderTab="Composite_3">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3780,9 +4132,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Nose" pos="354,-616,50" publishUnderTab="Nose">
 =======
      <module type="READ" name="Waist" pos="4328,-732,46" publishUnderTab="Waist">
+=======
+     <module type="READ" name="Waist" pos="4328,-732,46" publishUnderTab="Waist">
+=======
+     <module type="READ" name="Nose" pos="354,-616,50" publishUnderTab="Nose">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3843,10 +4201,16 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <element col="ATV-0AD14F92E160F59B">
 =======
         <element col="ATV-0AD14F92E160BD6B">
+=======
+        <element col="ATV-0AD14F92E160BD6B">
+=======
+        <element col="ATV-0AD14F92E160F59B">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -3900,9 +4264,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="READ" name="Pants_Line" pos="3544,-620,67" publishUnderTab="Pants_Line">
 =======
      <module type="READ" name="Upper_Leg" pos="5846,-592,69" publishUnderTab="Upper_Leg">
+=======
+     <module type="READ" name="Upper_Leg" pos="5846,-592,69" publishUnderTab="Upper_Leg">
+=======
+     <module type="READ" name="Pants_Line" pos="3544,-620,67" publishUnderTab="Pants_Line">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -3964,9 +4334,15 @@
        <drawing>
         <elementMode val="true"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <element col="ATV-0AD1C1B48CE02366">
 =======
         <element col="ATV-0AD14F92E160BE1F">
+=======
+        <element col="ATV-0AD14F92E160BE1F">
+=======
+        <element col="ATV-0AD1C1B48CE02366">
+>>>>>>> main
 >>>>>>> main
          <layer/>
         </element>
@@ -4020,6 +4396,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <module type="READ" name="Shin" pos="5724,-599,68" publishUnderTab="Shin">
+=======
+>>>>>>> main
      <module type="DISPLAY" name="Display_2" pos="4716,-533,25" publishUnderTab="Display_1">
       <options>
        <collapsed val="false"/>
@@ -4027,8 +4408,11 @@
       </options>
      </module>
      <module type="PEG" name="Arm_1-P" pos="0,0,41" publishUnderTab="Arm_1-P">
+<<<<<<< HEAD
 =======
      <module type="READ" name="Shin" pos="5724,-599,68" publishUnderTab="Shin">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -4039,18 +4423,30 @@
        <faceCamera val="false"/>
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <position>
 =======
        <offset>
+=======
+       <offset>
+=======
+       <position>
+>>>>>>> main
 >>>>>>> main
         <separate val="true"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        </position>
 =======
        </offset>
+=======
+       </offset>
+=======
+       </position>
+>>>>>>> main
 >>>>>>> main
        <scale>
         <separate val="true"/>
@@ -4096,6 +4492,205 @@
        <ikBoneY val="0" defaultValue="0"/>
        <ikStiffness val="1" defaultValue="1"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD14F92E160BE7C">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Shoe" pos="5606,-592,67" publishUnderTab="Shoe">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD14F92E160BEED">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="COMPOSITE" name="Leg_Comp" pos="5760,-543,78" publishUnderTab="Composite_2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <compositeMode val="compositeBitmap"/>
+       <flattenOutput val="true"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Crease1" pos="6267,-572,75" publishUnderTab="Crease1">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+=======
+>>>>>>> main
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
@@ -4666,7 +5261,73 @@
       </attrs>
      </module>
      <module type="PEG" name="Pants_Line-P" pos="3560,-757,66" publishUnderTab="Pants_Line-P">
+<<<<<<< HEAD
 =======
+=======
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+>>>>>>> main
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+<<<<<<< HEAD
+       </offset>
+=======
+       </position>
+>>>>>>> main
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+<<<<<<< HEAD
+>>>>>>> main
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0AD14F92E160BE7C">
@@ -4721,7 +5382,17 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
      <module type="READ" name="Shoe" pos="5606,-592,67" publishUnderTab="Shoe">
+=======
+     <module type="READ" name="Crease2" pos="6127,-572,76" publishUnderTab="Crease2">
+=======
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Torso-P" pos="2821,-905,39" publishUnderTab="Deformation-Torso-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -4732,18 +5403,30 @@
        <faceCamera val="false"/>
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <position>
 =======
        <offset>
+=======
+       <offset>
+=======
+       <position>
+>>>>>>> main
 >>>>>>> main
         <separate val="true"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        </position>
 =======
        </offset>
+=======
+       </offset>
+=======
+       </position>
+>>>>>>> main
 >>>>>>> main
        <scale>
         <separate val="true"/>
@@ -4789,12 +5472,15 @@
        <ikBoneY val="0" defaultValue="0"/>
        <ikStiffness val="1" defaultValue="1"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
      <module type="PEG" name="Torso-P" pos="2821,-905,39" publishUnderTab="Deformation-Torso-P">
 =======
+=======
+>>>>>>> main
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0AD14F92E160BEED">
@@ -4868,7 +5554,17 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
      <module type="READ" name="Crease1" pos="6267,-572,75" publishUnderTab="Crease1">
+=======
+     <module type="READ" name="Nose" pos="360,-578,71" publishUnderTab="Nose">
+=======
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Torso-MP" pos="3430,-937,36" publishUnderTab="Deformation-Torso-P-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -4879,18 +5575,30 @@
        <faceCamera val="false"/>
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <position>
 =======
        <offset>
+=======
+       <offset>
+=======
+       <position>
+>>>>>>> main
 >>>>>>> main
         <separate val="true"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        </position>
 =======
        </offset>
+=======
+       </offset>
+=======
+       </position>
+>>>>>>> main
 >>>>>>> main
        <scale>
         <separate val="true"/>
@@ -4936,6 +5644,7 @@
        <ikBoneY val="0" defaultValue="0"/>
        <ikStiffness val="1" defaultValue="1"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
@@ -4945,6 +5654,11 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0AD14F92E160C4ED">
+=======
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0AD14F92E160F59B">
+>>>>>>> main
          <layer/>
         </element>
         <customName>
@@ -4996,6 +5710,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
      <module type="READ" name="Crease2" pos="6127,-572,76" publishUnderTab="Crease2">
 >>>>>>> main
       <options>
@@ -5064,11 +5779,19 @@
        <ikBoneY val="0" defaultValue="0"/>
        <ikStiffness val="1" defaultValue="1"/>
 <<<<<<< HEAD
+=======
+     <module type="READ" name="Pants_Line" pos="4572,-672,43" publishUnderTab="Pants_Line">
+=======
+>>>>>>> main
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
      <module type="PEG" name="Tie_Down-P" pos="1899,-710,62" publishUnderTab="Tie_Down-P">
+<<<<<<< HEAD
+=======
+>>>>>>> main
+>>>>>>> main
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5077,12 +5800,28 @@
        <enable3d val="false"/>
        <faceCamera val="false"/>
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+<<<<<<< HEAD
        <position>
+=======
+<<<<<<< HEAD
+       <offset>
+=======
+       <position>
+>>>>>>> main
+>>>>>>> main
         <separate val="true"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
+<<<<<<< HEAD
        </position>
+=======
+<<<<<<< HEAD
+       </offset>
+=======
+       </position>
+>>>>>>> main
+>>>>>>> main
        <scale>
         <separate val="true"/>
         <inFields val="false"/>
@@ -5100,8 +5839,18 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
+<<<<<<< HEAD
         <x val="-2.8749930555039751" defaultValue="0"/>
         <y val="1.6653345369377348e-016" defaultValue="0"/>
+=======
+<<<<<<< HEAD
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+=======
+        <x val="-2.8749930555039751" defaultValue="0"/>
+        <y val="1.6653345369377348e-016" defaultValue="0"/>
+>>>>>>> main
+>>>>>>> main
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -5126,12 +5875,16 @@
        <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
        <ikBoneY val="0" defaultValue="0"/>
        <ikStiffness val="1" defaultValue="1"/>
+<<<<<<< HEAD
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
      <module type="PEG" name="Tie_Up-P" pos="2048,-710,63" publishUnderTab="Tie_Up-P">
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> main
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0AD14F92E160C54A">
@@ -5186,6 +5939,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Composite_2" pos="6211,-472,77" publishUnderTab="Composite_2">
 >>>>>>> main
       <options>
@@ -5246,10 +6000,15 @@
        <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
        <ikBoneY val="0" defaultValue="0"/>
        <ikStiffness val="1" defaultValue="1"/>
+=======
+     <module type="DISPLAY" name="Display_2" pos="5290,-596,21" publishUnderTab="Display_1">
+=======
+>>>>>>> main
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+<<<<<<< HEAD
      <module type="PEG" name="Bandana-P" pos="2300,-710,54" publishUnderTab="Bandana-P">
 =======
        <compositeMode val="compositeBitmap"/>
@@ -5266,11 +6025,15 @@
       </attrs>
      </module>
      <module type="COMPOSITE" name="Master_Comp" pos="2378,383,45" publishUnderTab="Composite_3">
+=======
+     <module type="PEG" name="Tie_Up-P" pos="2048,-710,63" publishUnderTab="Tie_Up-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
+<<<<<<< HEAD
       <attrs>
 <<<<<<< HEAD
        <enable3d val="false"/>
@@ -5328,6 +6091,9 @@
        <groupAtNetworkBuilding val="false"/>
        <addCompositeToGroup val="true"/>
       </attrs>
+=======
+<<<<<<< HEAD
+>>>>>>> main
      </module>
      <module type="PEG" name="Bandana_Back-P" pos="2424,-710,53" publishUnderTab="Bandana_Back-P">
 =======
@@ -5348,6 +6114,920 @@
 >>>>>>> main
       <options>
        <collapsed val="false"/>
+<<<<<<< HEAD
+=======
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_IN" name="Multi-Port-In" pos="3536,-1457,5">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="IMAGE" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="3561,-563,3">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="IMAGE" idx="0"/>
+         <port type="IMAGE" idx="1"/>
+         <port type="IMAGE" idx="2"/>
+         <port type="IMAGE" idx="3"/>
+         <port type="IMAGE" idx="4"/>
+         <port type="IMAGE" idx="5"/>
+         <port type="IMAGE" idx="6"/>
+         <port type="IMAGE" idx="7"/>
+        </ports>
+       </module>
+       <module type="OVERLAY" name="UpArmOverlay-Layer" pos="4757,-1138,36" publishUnderTab="Overlay-Layer">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="AutoPatchModule" name="UpArmAuto-Patch" pos="5427,-1140,33" publishUnderTab="Auto-Patch">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+       </module>
+       <module type="LINE_ART" name="UpArmLine-Art" pos="4940,-1138,35" publishUnderTab="Line-Art">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="COLOR_ART" name="UpArmColour-Art" pos="5071,-1138,32" publishUnderTab="Colour-Art">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="UNDERLAY" name="UpArmUnderlay-Layer" pos="5248,-1140,34" publishUnderTab="Underlay-Layer">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Upper_Arm-P" pos="5101,-1296,11" publishUnderTab="Upper_Arm-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0" col="ATV-0AD4C0B35EE02AFC"/>
+          <y val="0" defaultValue="0" col="ATV-0AD4C0B35EE02AFD"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD24E9A47C0BD10"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD24E9A47C0BD10"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-2.8541597724930803" defaultValue="0"/>
+          <y val="-1.4927741723138745" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Hand-P" pos="2166,-1285,25" publishUnderTab="Hand-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1" col="ATV-0AD3D21AAB604798"/>
+          <y val="1" defaultValue="1" col="ATV-0AD3D21AAB604799"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD24E9A47C0BEB1"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD24E9A47C0BEB1"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-4.295100796699681" defaultValue="0"/>
+          <y val="-4.0306944067993111" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Forearm-P" pos="3560,-1262,13" publishUnderTab="Forearm-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0" col="ATV-0AD44D17EE725AB9"/>
+          <y val="0" defaultValue="0" col="ATV-0AD44D17EE725ABA"/>
+          <z val="0" defaultValue="0" col="ATV-0AD3D21AAB60189F"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD24E9A47C0BDC5"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD24E9A47C0BDC5"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-3.5084457705962171" defaultValue="0"/>
+          <y val="-2.4446549717946877" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="COMPOSITE" name="Hand_Comp" pos="2384,-1017,18" publishUnderTab="Composite_4">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1" defaultValue="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="UNDERLAY" name="Hand_Underlay-Layer" pos="2609,-1117,28" publishUnderTab="Fore_ArmUnderlay-Layer_1">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="AutoPatchModule" name="Hand_Auto-Patch" pos="2798,-1117,29" publishUnderTab="Fore_ArmAuto-Patch_1">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+       </module>
+       <module type="LINE_ART" name="Hand_Line-Art" pos="2321,-1117,26" publishUnderTab="Fore_ArmLine-Art_1">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="OVERLAY" name="Hand_Overlay-Layer" pos="2134,-1118,19" publishUnderTab="Fore_ArmOverlay-Layer_1">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="COLOR_ART" name="Hand_Colour-Art" pos="2467,-1117,27" publishUnderTab="Fore_ArmColour-Art_1">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="CUTTER" name="UpArms_Lines_FA_Autopatch_Cutter" pos="4777,-1062,14" publishUnderTab="Forearm_Lines_Up_Autopatch_Cutter">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <inverted val="false"/>
+        </attrs>
+       </module>
+       <module type="CUTTER" name="Forearm_Lines_Up_Autopatch_Cutter" pos="3379,-1043,30" publishUnderTab="Cutter">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <inverted val="false"/>
+        </attrs>
+       </module>
+       <module type="OVERLAY" name="Fore_ArmOverlay-Layer_1" pos="3222,-1116,31" publishUnderTab="UpArmOverlay-Layer">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="UNDERLAY" name="Fore_ArmUnderlay-Layer_1" pos="3654,-1116,4" publishUnderTab="UpArmUnderlay-Layer">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="AutoPatchModule" name="Fore_ArmAuto-Patch_1" pos="3824,-1116,39" publishUnderTab="UpArmAuto-Patch">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+       </module>
+       <module type="COLOR_ART" name="Fore_ArmColour-Art_1" pos="3503,-1116,37" publishUnderTab="UpArmColour-Art">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="LINE_ART" name="Fore_ArmLine-Art_1" pos="3368,-1116,38" publishUnderTab="UpArmLine-Art">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Hand_MP" pos="2373,-1357,17" publishUnderTab="Hand-P-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD4D4B908B05868"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD4D4B908B05868"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-4.2658752475233488" defaultValue="0"/>
+          <y val="-3.6901124458668946" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Hand_1-P" pos="2320,-1262,16" publishUnderTab="Hand_1-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD44D17EE725925"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD44D17EE725925"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-4.2399199999999997" defaultValue="0"/>
+          <y val="-3.6753800000000001" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Hand_3-P" pos="2578,-1285,21" publishUnderTab="Hand_3-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD44D17EE725998"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD44D17EE725998"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-4.2399199999999997" defaultValue="0"/>
+          <y val="-3.6753800000000001" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Hand_2-P" pos="2450,-1262,15" publishUnderTab="Hand_2-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0" col="ATV-0AD44D17EE7259F1"/>
+          <y val="0" defaultValue="0" col="ATV-0AD44D17EE7259F2"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD44D17EE7257FA"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD44D17EE7257FA"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-4.3099391168652526" defaultValue="0"/>
+          <y val="-4.025752643616487" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="-0.0020321474215372771" defaultValue="0"/>
+          <y val="0.0027271385578192062" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Upper_Arm-MP" pos="5087,-1357,10" publishUnderTab="Upper_Arm-P-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD24E9A47C0BD11"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD24E9A47C0BD11"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-2.8541597724930803" defaultValue="0"/>
+          <y val="-1.4927741723138745" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Forearm-MP" pos="3556,-1330,8" publishUnderTab="Forearm-P-P">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <attrs>
+         <enable3d val="false"/>
+         <faceCamera val="false"/>
+         <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+         <position>
+          <separate val="true"/>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0" col="ATV-0AD4C0B35EE01E3D"/>
+         </position>
+         <scale>
+          <separate val="true"/>
+          <inFields val="false"/>
+          <xy val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1"/>
+          <y val="1" defaultValue="1"/>
+          <z val="1" defaultValue="1"/>
+         </scale>
+         <rotation>
+          <separate val="false"/>
+          <anglex val="0" defaultValue="0"/>
+          <angley val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-0AD24E9A47C0BDC6"/>
+         </rotation>
+         <angle val="0" defaultValue="0" col="ATV-0AD24E9A47C0BDC6"/>
+         <skew val="0" defaultValue="0"/>
+         <pivot>
+          <x val="-3.5084457705962171" defaultValue="0"/>
+          <y val="-2.4446549717946877" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </pivot>
+         <splineOffset>
+          <x val="0" defaultValue="0"/>
+          <y val="0" defaultValue="0"/>
+          <z val="0" defaultValue="0"/>
+         </splineOffset>
+         <ignoreParentPegScaling val="false"/>
+         <disableFieldRendering val="false"/>
+         <depth val="0"/>
+         <enableMinMaxAngle val="false"/>
+         <minAngle val="-360" defaultValue="-360"/>
+         <maxAngle val="360" defaultValue="360"/>
+         <nailForChildren val="false"/>
+         <ikHoldOrientation val="false"/>
+         <ikHoldX val="false"/>
+         <ikHoldY val="false"/>
+         <ikExcluded val="false"/>
+         <ikCanRotate val="true"/>
+         <ikCanTranslateX val="false"/>
+         <ikCanTranslateY val="false"/>
+         <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+         <ikBoneY val="0" defaultValue="0"/>
+         <ikStiffness val="1" defaultValue="1"/>
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="READ" name="Hand_3" pos="2588,-1191,20" publishUnderTab="Hand_2">
+=======
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-2.9583261875475713" defaultValue="0"/>
+        <y val="0.1388885534059896" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Bandana-P" pos="2300,-710,54" publishUnderTab="Bandana-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0" col="ATV-0ADA4B1DF9C01A8A"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-2.8333265317020375" defaultValue="0"/>
+        <y val="0.11111084438047145" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Bandana_Back-P" pos="2424,-710,53" publishUnderTab="Bandana_Back-P">
+      <options>
+       <collapsed val="false"/>
+>>>>>>> main
        <version val="1"/>
       </options>
       <attrs>
@@ -6242,6 +7922,7 @@
       <attrs/>
       <nodeslist>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="1175,-940,5">
+<<<<<<< HEAD
 =======
      </module>
      <group name="group" pos="5249,-781,38">
@@ -7054,10 +8735,17 @@
         </attrs>
        </module>
        <module type="READ" name="Hand_3" pos="2588,-1191,20" publishUnderTab="Hand_2">
+=======
+>>>>>>> main
+>>>>>>> main
         <options>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
         <attrs>
          <enable3d val="false"/>
          <faceCamera val="false"/>
@@ -7166,12 +8854,34 @@
         </attrs>
        </module>
        <module type="READ" name="Hand_2" pos="2451,-1193,23" publishUnderTab="Hand">
+<<<<<<< HEAD
+=======
+=======
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="1175,-327,6">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="IMAGE" idx="0"/>
+         <port type="IMAGE" idx="1"/>
+         <port type="IMAGE" idx="2"/>
+         <port type="IMAGE" idx="3"/>
+        </ports>
+       </module>
+       <module type="COMPOSITE" name="Pupil_Comp" pos="1127,-509,14" publishUnderTab="Composite_4">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
         <attrs>
+<<<<<<< HEAD
 <<<<<<< HEAD
          <compositeMode val="compositeBitmap"/>
          <flattenOutput val="true"/>
@@ -7188,6 +8898,8 @@
        </module>
        <module type="CUTTER" name="Pupil_Revealed_On_Eye_CA" pos="1109,-457,13" publishUnderTab="Reveal">
 =======
+=======
+>>>>>>> main
          <enable3d val="false"/>
          <faceCamera val="false"/>
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
@@ -7295,6 +9007,24 @@
         </attrs>
        </module>
        <module type="READ" name="Hand_1" pos="2305,-1193,24" publishUnderTab="Hand">
+<<<<<<< HEAD
+=======
+=======
+         <compositeMode val="compositeBitmap"/>
+         <flattenOutput val="true"/>
+         <flattenVector val="false"/>
+         <composite2d val="false"/>
+         <composite3d val="false"/>
+         <outputZ val="LEFTMOST"/>
+         <outputZInputPort val="1"/>
+         <applyFocus val="true"/>
+         <multiplier val="1" defaultValue="1"/>
+         <tvgPalette val="compositedPalette"/>
+         <mergeVector val="false"/>
+        </attrs>
+       </module>
+       <module type="CUTTER" name="Pupil_Revealed_On_Eye_CA" pos="1109,-457,13" publishUnderTab="Reveal">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -7302,11 +9032,14 @@
         </options>
         <attrs>
 <<<<<<< HEAD
+<<<<<<< HEAD
          <inverted val="true"/>
         </attrs>
        </module>
        <module type="LINE_ART" name="LA" pos="1298,-550,19" publishUnderTab="LA">
 =======
+=======
+>>>>>>> main
          <enable3d val="false"/>
          <faceCamera val="false"/>
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
@@ -7414,12 +9147,21 @@
         </attrs>
        </module>
        <module type="READ" name="Hand" pos="2144,-1193,22" publishUnderTab="Hand">
+<<<<<<< HEAD
+=======
+=======
+         <inverted val="true"/>
+        </attrs>
+       </module>
+       <module type="LINE_ART" name="LA" pos="1298,-550,19" publishUnderTab="LA">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
         <attrs>
+<<<<<<< HEAD
 <<<<<<< HEAD
          <flatten val="false"/>
          <applyToMattePorts val="false"/>
@@ -7429,6 +9171,8 @@
        </module>
        <module type="COLOR_ART" name="CA" pos="1402,-550,18" publishUnderTab="CA">
 =======
+=======
+>>>>>>> main
          <enable3d val="false"/>
          <faceCamera val="false"/>
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
@@ -7536,12 +9280,24 @@
         </attrs>
        </module>
        <module type="READ" name="Forearm" pos="3544,-1190,9" publishUnderTab="Forearm">
+<<<<<<< HEAD
+=======
+=======
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="COLOR_ART" name="CA" pos="1402,-550,18" publishUnderTab="CA">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
         <attrs>
+<<<<<<< HEAD
 <<<<<<< HEAD
          <flatten val="false"/>
          <applyToMattePorts val="false"/>
@@ -7551,6 +9307,8 @@
        </module>
        <module type="PEG" name="Brow-P" pos="849,-663,1" publishUnderTab="Brow-P">
 =======
+=======
+>>>>>>> main
          <enable3d val="false"/>
          <faceCamera val="false"/>
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
@@ -7658,6 +9416,17 @@
         </attrs>
        </module>
        <module type="READ" name="Upper_Arm" pos="5092,-1197,12" publishUnderTab="Upper_Arm">
+<<<<<<< HEAD
+=======
+=======
+         <flatten val="false"/>
+         <applyToMattePorts val="false"/>
+         <antialiasingQuality val="IGNORE"/>
+         <antialiasingExponent val="1" defaultValue="1"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Brow-P" pos="849,-663,1" publishUnderTab="Brow-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -7668,18 +9437,30 @@
          <faceCamera val="false"/>
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
          <position>
 =======
          <offset>
+=======
+         <offset>
+=======
+         <position>
+>>>>>>> main
 >>>>>>> main
           <separate val="true"/>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
           <z val="0" defaultValue="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
          </position>
 =======
          </offset>
+=======
+         </offset>
+=======
+         </position>
+>>>>>>> main
 >>>>>>> main
          <scale>
           <separate val="true"/>
@@ -7725,12 +9506,15 @@
          <ikBoneY val="0" defaultValue="0"/>
          <ikStiffness val="1" defaultValue="1"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
          <groupAtNetworkBuilding val="false"/>
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
        <module type="PEG" name="Pupil_HL-P" pos="1031,-599,11" publishUnderTab="Pupil_HL-P">
 =======
+=======
+>>>>>>> main
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0AD14F92E160B581">
@@ -8526,6 +10310,15 @@
         </linkedlist>
        </group>
        <module type="COMPOSITE" name="Composite" pos="3569,-934,2" publishUnderTab="Composite">
+<<<<<<< HEAD
+=======
+=======
+         <groupAtNetworkBuilding val="false"/>
+         <addCompositeToGroup val="true"/>
+        </attrs>
+       </module>
+       <module type="PEG" name="Pupil_HL-P" pos="1031,-599,11" publishUnderTab="Pupil_HL-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -8589,8 +10382,11 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="PEG" name="Pupil-MP" pos="1115,-696,12" publishUnderTab="Pupil-P-P">
 =======
+=======
+>>>>>>> main
       </nodeslist>
       <linkedlist>
        <link out="Multi-Port-In" in="Hand_Auto-Patch"/>
@@ -8682,6 +10478,11 @@
       <attrs/>
       <nodeslist>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-1771,619,9">
+<<<<<<< HEAD
+=======
+=======
+       <module type="PEG" name="Pupil-MP" pos="1115,-696,12" publishUnderTab="Pupil-P-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -8745,9 +10546,15 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="PEG" name="Pupil-P" pos="1152,-599,10" publishUnderTab="Pupil-P">
 =======
        <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-1771,852,10">
+=======
+       <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="-1771,852,10">
+=======
+       <module type="PEG" name="Pupil-P" pos="1152,-599,10" publishUnderTab="Pupil-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -8811,9 +10618,15 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="PEG" name="Eye-MP" pos="1361,-872,4" publishUnderTab="Eye-P-P-P">
 =======
        <module type="AutoPatchModule" name="AP" pos="-1595,722,7" publishUnderTab="Auto-Patch">
+=======
+       <module type="AutoPatchModule" name="AP" pos="-1595,722,7" publishUnderTab="Auto-Patch">
+=======
+       <module type="PEG" name="Eye-MP" pos="1361,-872,4" publishUnderTab="Eye-P-P-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -8877,9 +10690,15 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="PEG" name="Eye_And_Brow_MP" pos="1325,-767,3" publishUnderTab="Eye-P-P">
 =======
        <module type="COLOR_ART" name="CA" pos="-1748,722,4" publishUnderTab="Colour-Art">
+=======
+       <module type="COLOR_ART" name="CA" pos="-1748,722,4" publishUnderTab="Colour-Art">
+=======
+       <module type="PEG" name="Eye_And_Brow_MP" pos="1325,-767,3" publishUnderTab="Eye-P-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -8943,9 +10762,15 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="PEG" name="Eye-P" pos="1357,-685,9" publishUnderTab="Eye-P">
 =======
        <module type="LINE_ART" name="LA" pos="-1820,719,3" publishUnderTab="Line-Art">
+=======
+       <module type="LINE_ART" name="LA" pos="-1820,719,3" publishUnderTab="Line-Art">
+=======
+       <module type="PEG" name="Eye-P" pos="1357,-685,9" publishUnderTab="Eye-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -9009,9 +10834,15 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="READ" name="Brow" pos="840,-585,16" publishUnderTab="Brow">
 =======
        <module type="UNDERLAY" name="UL" pos="-1670,722,6" publishUnderTab="Underlay-Layer">
+=======
+       <module type="UNDERLAY" name="UL" pos="-1670,722,6" publishUnderTab="Underlay-Layer">
+=======
+       <module type="READ" name="Brow" pos="840,-585,16" publishUnderTab="Brow">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -9237,8 +11068,11 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="READ" name="Eye" pos="1341,-619,8" publishUnderTab="Eye">
 =======
+=======
+>>>>>>> main
        <module type="COMPOSITE" name="Composite" pos="-1771,822,11" publishUnderTab="Composite">
         <options>
          <collapsed val="false"/>
@@ -9259,6 +11093,11 @@
         </attrs>
        </module>
        <module type="CUTTER" name="Reveal" pos="-1824,778,1" publishUnderTab="Cutter">
+<<<<<<< HEAD
+=======
+=======
+       <module type="READ" name="Eye" pos="1341,-619,8" publishUnderTab="Eye">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -9372,9 +11211,15 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="READ" name="Pupil_HL" pos="1015,-550,17" publishUnderTab="Pupil_HL">
 =======
        <module type="VISIBILITY" name="Visibility" pos="-1709,778,8" publishUnderTab="Visibility">
+=======
+       <module type="VISIBILITY" name="Visibility" pos="-1709,778,8" publishUnderTab="Visibility">
+=======
+       <module type="READ" name="Pupil_HL" pos="1015,-550,17" publishUnderTab="Pupil_HL">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -9678,8 +11523,11 @@
       </backdrops>
      </group>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="Eye_MP" pos="1014,-876,12" publishUnderTab="Eye_1-P">
 =======
+=======
+>>>>>>> main
      <module type="COLOR_ART" name="CA" pos="1402,-550,63" publishUnderTab="CA">
       <options>
        <collapsed val="false"/>
@@ -9693,6 +11541,11 @@
       </attrs>
      </module>
      <module type="LINE_ART" name="LA" pos="1298,-550,64" publishUnderTab="LA">
+<<<<<<< HEAD
+=======
+=======
+     <module type="PEG" name="Eye_MP" pos="1014,-876,12" publishUnderTab="Eye_1-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -9756,9 +11609,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="Torso-MP-P" pos="3239,-1299,34" publishUnderTab="Torso-MP-P">
 =======
      <module type="PEG" name="Eye-P" pos="1357,-685,54" publishUnderTab="Eye-P">
+=======
+     <module type="PEG" name="Eye-P" pos="1357,-685,54" publishUnderTab="Eye-P">
+=======
+     <module type="PEG" name="Torso-MP-P" pos="3239,-1299,34" publishUnderTab="Torso-MP-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -9822,9 +11681,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="Scene_Peg" pos="3219,-1604,28" publishUnderTab="Torso-MP-P-P">
 =======
      <module type="PEG" name="Eye_And_Brow_MP" pos="1325,-767,53" publishUnderTab="Eye-P-P">
+=======
+     <module type="PEG" name="Eye_And_Brow_MP" pos="1325,-767,53" publishUnderTab="Eye-P-P">
+=======
+     <module type="PEG" name="Scene_Peg" pos="3219,-1604,28" publishUnderTab="Torso-MP-P-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -9888,9 +11753,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="Cheek-P" pos="523,-670,32" publishUnderTab="Cheek-P">
 =======
      <module type="PEG" name="Eye-MP" pos="1353,-840,52" publishUnderTab="Eye-P-P-P">
+=======
+     <module type="PEG" name="Eye-MP" pos="1353,-840,52" publishUnderTab="Eye-P-P-P">
+=======
+     <module type="PEG" name="Cheek-P" pos="523,-670,32" publishUnderTab="Cheek-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -9954,9 +11825,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="Peg_1" pos="431,-820,45" publishUnderTab="Peg_1">
 =======
      <module type="PEG" name="Pupil-P" pos="1152,-599,55" publishUnderTab="Pupil-P">
+=======
+     <module type="PEG" name="Pupil-P" pos="1152,-599,55" publishUnderTab="Pupil-P">
+=======
+     <module type="PEG" name="Peg_1" pos="431,-820,45" publishUnderTab="Peg_1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -10019,10 +11896,16 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="PEG" name="Mouth_MP-P" pos="169,-835,44" publishUnderTab="Mouth_MP-P">
 =======
      <module type="PEG" name="Pupil-MP" pos="1115,-696,32" publishUnderTab="Pupil-P-P">
+=======
+     <module type="PEG" name="Pupil-MP" pos="1115,-696,32" publishUnderTab="Pupil-P-P">
+=======
+     <module type="PEG" name="Mouth_MP-P" pos="169,-835,44" publishUnderTab="Mouth_MP-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -10085,10 +11968,16 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="PEG" name="Ears_MP-P" pos="1113,-1160,37" publishUnderTab="Ears_MP-P">
 =======
      <module type="PEG" name="Pupil_HL-P" pos="1031,-599,34" publishUnderTab="Pupil_HL-P">
+=======
+     <module type="PEG" name="Pupil_HL-P" pos="1031,-599,34" publishUnderTab="Pupil_HL-P">
+=======
+     <module type="PEG" name="Ears_MP-P" pos="1113,-1160,37" publishUnderTab="Ears_MP-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -10151,10 +12040,16 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="PEG" name="Arm_1-P_1" pos="0,0,40" publishUnderTab="Arm_1-P_1">
 =======
      <module type="PEG" name="Brow-P" pos="849,-663,60" publishUnderTab="Brow-P">
+=======
+     <module type="PEG" name="Brow-P" pos="849,-663,60" publishUnderTab="Brow-P">
+=======
+     <module type="PEG" name="Arm_1-P_1" pos="0,0,40" publishUnderTab="Arm_1-P_1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -10218,8 +12113,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <group name="Arm_1" pos="4866,-775,3">
 =======
+=======
+>>>>>>> main
      <module type="CUTTER" name="Pupil_Revealed_On_Eye_CA" pos="1109,-457,56" publishUnderTab="Reveal">
       <options>
        <collapsed val="false"/>
@@ -10249,6 +12147,11 @@
       </attrs>
      </module>
      <group name="Deformation-Eye" pos="1331,-651,33">
+<<<<<<< HEAD
+=======
+=======
+     <group name="Arm_1" pos="4866,-775,3">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -10793,8 +12696,11 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="PEG" name="Hand_3-P" pos="2578,-1285,25" publishUnderTab="Hand_3-P">
 =======
+=======
+>>>>>>> main
       </nodeslist>
       <linkedlist>
        <link out="Multi-Port-In" in="Offset"/>
@@ -10812,6 +12718,11 @@
       <attrs/>
       <nodeslist>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="-3612,1465,9">
+<<<<<<< HEAD
+=======
+=======
+       <module type="PEG" name="Hand_3-P" pos="2578,-1285,25" publishUnderTab="Hand_3-P">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -11509,8 +13420,11 @@
         </attrs>
        </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
        <module type="READ" name="Forearm" pos="3544,-1190,16" publishUnderTab="Forearm">
 =======
+=======
+>>>>>>> main
       </nodeslist>
       <linkedlist>
        <link out="Composite" in="Multi-Port-Out"/>
@@ -11568,6 +13482,11 @@
       <attrs/>
       <nodeslist>
        <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
+<<<<<<< HEAD
+=======
+=======
+       <module type="READ" name="Forearm" pos="3544,-1190,16" publishUnderTab="Forearm">
+>>>>>>> main
 >>>>>>> main
         <options>
          <collapsed val="false"/>
@@ -12634,8 +14553,11 @@
       </waypointLinks>
      </group>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="Peg" pos="4963,-982,20" publishUnderTab="Peg">
 =======
+=======
+>>>>>>> main
      <module type="CUTTER" name="Waist_Revealed_On_Torso" pos="4214,-563,47" publishUnderTab="Cutter">
       <options>
        <collapsed val="false"/>
@@ -12665,6 +14587,11 @@
       </attrs>
      </module>
      <module type="PEG" name="Pants_Line-P" pos="4588,-809,41" publishUnderTab="Pants_Line-P">
+<<<<<<< HEAD
+=======
+=======
+     <module type="PEG" name="Peg" pos="4963,-982,20" publishUnderTab="Peg">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -12727,10 +14654,16 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="PEG" name="Torso-P-P" pos="2707,-1190,35" publishUnderTab="Torso-P-P">
 =======
      <module type="PEG" name="Torso-P" pos="3774,-1076,42" publishUnderTab="Deformation-Torso-P">
+=======
+     <module type="PEG" name="Torso-P" pos="3774,-1076,42" publishUnderTab="Deformation-Torso-P">
+=======
+     <module type="PEG" name="Torso-P-P" pos="2707,-1190,35" publishUnderTab="Torso-P-P">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -12794,9 +14727,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="no-name" pos="3239,-1399,33" publishUnderTab="no-name">
 =======
      <module type="PEG" name="Torso-MP" pos="3851,-1124,20" publishUnderTab="Deformation-Torso-P-P">
+=======
+     <module type="PEG" name="Torso-MP" pos="3851,-1124,20" publishUnderTab="Deformation-Torso-P-P">
+=======
+     <module type="PEG" name="no-name" pos="3239,-1399,33" publishUnderTab="no-name">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -12860,9 +14799,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="PEG" name="no-name-P" pos="3234,-1515,29" publishUnderTab="no-name_1">
 =======
      <module type="PEG" name="Tie_Down-P" pos="1899,-710,39" publishUnderTab="Tie_Down-P">
+=======
+     <module type="PEG" name="Tie_Down-P" pos="1899,-710,39" publishUnderTab="Tie_Down-P">
+=======
+     <module type="PEG" name="no-name-P" pos="3234,-1515,29" publishUnderTab="no-name_1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -12926,6 +14871,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <module type="PEG" name="Tie_Up-P" pos="2048,-710,40" publishUnderTab="Tie_Up-P">
+=======
+>>>>>>> main
      <group name="Leg_1" pos="6224,-810,10">
       <options>
        <collapsed val="false"/>
@@ -14709,8 +16659,11 @@
       </waypointLinks>
      </group>
      <group name="Arm_Clone" pos="5097,-765,19">
+<<<<<<< HEAD
 =======
      <module type="PEG" name="Tie_Up-P" pos="2048,-710,40" publishUnderTab="Tie_Up-P">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -17035,9 +18988,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="COMPOSITE" name="Composite_6" pos="4896,-633,23" publishUnderTab="Composite_6">
 =======
      <module type="PEG" name="Bandana-P" pos="2520,-703,5" publishUnderTab="Bandana-P">
+=======
+     <module type="PEG" name="Bandana-P" pos="2520,-703,5" publishUnderTab="Bandana-P">
+=======
+     <module type="COMPOSITE" name="Composite_6" pos="4896,-633,23" publishUnderTab="Composite_6">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -17058,9 +19017,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="StaticConstraint" name="Static-Transformation" pos="5092,-802,18" publishUnderTab="Static-Transformation">
 =======
      <module type="PEG" name="Bandana_Back-P" pos="3261,-746,36" publishUnderTab="Bandana_Back-P">
+=======
+     <module type="PEG" name="Bandana_Back-P" pos="3261,-746,36" publishUnderTab="Bandana_Back-P">
+=======
+     <module type="StaticConstraint" name="Static-Transformation" pos="5092,-802,18" publishUnderTab="Static-Transformation">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -17095,6 +19060,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <module type="PEG" name="Tie_MP" pos="2053,-800,37" publishUnderTab="Peg">
+=======
+>>>>>>> main
      <group name="Eye_Clone" pos="1085,-633,13">
       <options>
        <collapsed val="false"/>
@@ -18249,8 +20219,11 @@
       </backdrops>
      </group>
      <module type="COMPOSITE" name="Composite_7" pos="1085,-533,15" publishUnderTab="Composite_7">
+<<<<<<< HEAD
 =======
      <module type="PEG" name="Tie_MP" pos="2053,-800,37" publishUnderTab="Peg">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -18270,10 +20243,16 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <module type="COMPOSITE" name="Composite_8" pos="1000,-433,17" publishUnderTab="Composite_8">
 =======
      <module type="PEG" name="Bandana_MP" pos="2295,-787,6" publishUnderTab="Peg_1">
+=======
+     <module type="PEG" name="Bandana_MP" pos="2295,-787,6" publishUnderTab="Peg_1">
+=======
+     <module type="COMPOSITE" name="Composite_8" pos="1000,-433,17" publishUnderTab="Composite_8">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -18294,9 +20273,15 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <module type="FADE" name="Transparency" pos="2848,438,5" publishUnderTab="Transparency">
 =======
      <module type="PEG" name="Bandana_Full_MP" pos="2284,-895,4" publishUnderTab="Peg_2">
+=======
+     <module type="PEG" name="Bandana_Full_MP" pos="2284,-895,4" publishUnderTab="Peg_2">
+=======
+     <module type="FADE" name="Transparency" pos="2848,438,5" publishUnderTab="Transparency">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -18304,6 +20289,19 @@
       </options>
       <attrs>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0" col="ATV-0ADA44C999C09387"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+=======
+>>>>>>> main
        <transparency val="50" defaultValue="50"/>
       </attrs>
      </module>
@@ -18321,6 +20319,7 @@
         <y val="0.11110398319904902" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </translate>
+<<<<<<< HEAD
 =======
        <enable3d val="false"/>
        <faceCamera val="false"/>
@@ -18331,11 +20330,14 @@
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
+=======
+>>>>>>> main
 >>>>>>> main
        <scale>
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <x val="-1" defaultValue="1"/>
         <y val="1" defaultValue="1"/>
@@ -18354,6 +20356,8 @@
      </module>
      <module type="PEG" name="Leg_MP" pos="6291,-989,6" publishUnderTab="no-name_1">
 =======
+=======
+>>>>>>> main
         <x val="1" defaultValue="1"/>
         <y val="1" defaultValue="1"/>
         <z val="1" defaultValue="1"/>
@@ -18398,6 +20402,26 @@
       </attrs>
      </module>
      <module type="PEG" name="REar-P" pos="-66,-709,26" publishUnderTab="REar-P">
+<<<<<<< HEAD
+=======
+=======
+        <x val="-1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotate>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotate>
+       <skewx val="0" defaultValue="0"/>
+       <skewy val="0" defaultValue="0"/>
+       <skewz val="0" defaultValue="0"/>
+       <inverted val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="Leg_MP" pos="6291,-989,6" publishUnderTab="no-name_1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
@@ -18461,6 +20485,11 @@
       </attrs>
      </module>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <module type="PEG" name="LEar-P" pos="-238,-709,27" publishUnderTab="LEar-P">
+=======
+>>>>>>> main
      <group name="Leg_Clone" pos="6324,-810,8">
       <options>
        <collapsed val="false"/>
@@ -20244,14 +22273,18 @@
       </waypointLinks>
      </group>
      <module type="COMPOSITE" name="Composite_9" pos="6274,-710,9" publishUnderTab="Composite_9">
+<<<<<<< HEAD
 =======
      <module type="PEG" name="LEar-P" pos="-238,-709,27" publishUnderTab="LEar-P">
+=======
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
       <attrs>
+<<<<<<< HEAD
 <<<<<<< HEAD
        <compositeMode val="compositeBitmap"/>
        <flattenOutput val="true"/>
@@ -20268,6 +22301,8 @@
      </module>
      <module type="StaticConstraint" name="Static-Transformation_1" pos="6305,-840,7" publishUnderTab="Static-Transformation_1">
 =======
+=======
+>>>>>>> main
        <enable3d val="false"/>
        <faceCamera val="false"/>
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
@@ -20325,12 +22360,31 @@
       </attrs>
      </module>
      <module type="PEG" name="Ears_MP" pos="-163,-809,31" publishUnderTab="Peg">
+<<<<<<< HEAD
+=======
+=======
+       <compositeMode val="compositeBitmap"/>
+       <flattenOutput val="true"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="StaticConstraint" name="Static-Transformation_1" pos="6305,-840,7" publishUnderTab="Static-Transformation_1">
+>>>>>>> main
 >>>>>>> main
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
       <attrs>
+<<<<<<< HEAD
 <<<<<<< HEAD
        <bakeattr/>
        <bakeattrall/>
@@ -20339,6 +22393,8 @@
         <x val="0.33332668475912719" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
 =======
+=======
+>>>>>>> main
        <enable3d val="false"/>
        <faceCamera val="false"/>
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
@@ -20346,6 +22402,16 @@
         <separate val="true"/>
         <x val="0" defaultValue="0" col="ATV-0ADA44C999C0554E"/>
         <y val="0" defaultValue="0" col="ATV-0ADA44C999C0544A"/>
+<<<<<<< HEAD
+=======
+=======
+       <bakeattr/>
+       <bakeattrall/>
+       <active val="true"/>
+       <translate>
+        <x val="0.33332668475912719" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+>>>>>>> main
 >>>>>>> main
         <z val="0" defaultValue="0"/>
        </translate>
@@ -20493,12 +22559,15 @@
      <link out="Mouth_Comp" in="Master_Comp" inport="9"/>
      <link out="Cheek" in="Master_Comp" inport="8"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <link out="Eye_Comp" in="Composite_8" inport="1"/>
      <link out="Bandana" in="Bandana_Comp" inport="1"/>
      <link out="Bandana_Back" in="Bandana_Comp" inport="0"/>
      <link out="Tie_Up" in="Bandana_Comp" inport="2"/>
      <link out="Tie_Down" in="Bandana_Comp" inport="3"/>
 =======
+=======
+>>>>>>> main
      <link out="Eye_Comp" in="Master_Comp" inport="7"/>
      <link out="Pupil_HL" in="Pupil_Comp" inport="1"/>
      <link out="Eye" in="LA"/>
@@ -20513,19 +22582,36 @@
      <link out="Bandana_Back" in="CA_3Back"/>
      <link out="Tie_Up" in="Bandana_Comp" inport="4"/>
      <link out="Tie_Down" in="Bandana_Comp" inport="5"/>
+<<<<<<< HEAD
+=======
+=======
+     <link out="Eye_Comp" in="Composite_8" inport="1"/>
+     <link out="Bandana" in="Bandana_Comp" inport="1"/>
+     <link out="Bandana_Back" in="Bandana_Comp" inport="0"/>
+     <link out="Tie_Up" in="Bandana_Comp" inport="2"/>
+     <link out="Tie_Down" in="Bandana_Comp" inport="3"/>
+>>>>>>> main
 >>>>>>> main
      <link out="Bandana_Comp" in="Master_Comp" inport="6"/>
      <link out="Torso" in="LA_1"/>
      <link out="Torso" in="CA_1"/>
      <link out="Torso" in="Waist_Revealed_On_Torso" inport="1"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <link out="Arm_Comp" in="Composite_6" inport="1"/>
 =======
+=======
+>>>>>>> main
      <link out="Arm_Comp" in="Master_Comp" inport="2"/>
      <link out="Upper_Leg" in="Leg_Comp" inport="0"/>
      <link out="Shin" in="Leg_Comp" inport="1"/>
      <link out="Shoe" in="Leg_Comp" inport="2"/>
      <link out="Leg_Comp" in="Master_Comp" inport="1"/>
+<<<<<<< HEAD
+=======
+=======
+     <link out="Arm_Comp" in="Composite_6" inport="1"/>
+>>>>>>> main
 >>>>>>> main
      <link out="Crease1" in="Composite_2" inport="0"/>
      <link out="Crease2" in="Composite_2" inport="1"/>
@@ -20534,7 +22620,10 @@
      <link out="Nose" in="Mouth_Comp" inport="0"/>
      <link out="Pants_Line" in="Waist_Revealed_On_Torso" inport="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
      <link out="group" outport="1" in="Arm_Comp" inport="0"/>
      <link out="group" outport="2" in="Arm_Comp" inport="1"/>
      <link out="group" outport="3" in="Arm_Comp" inport="2"/>
@@ -20558,6 +22647,10 @@
      <link out="Pupil_Revealed_On_Eye_CA" in="Eye_Comp" inport="2"/>
      <link out="Pupil_Comp" in="Pupil_Revealed_On_Eye_CA" inport="0"/>
      <link out="Deformation-Eye" in="Eye" inport="0"/>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
 >>>>>>> main
      <link out="CA_1" in="Composite_4" inport="0"/>
      <link out="LA_1" in="Composite_4" inport="1"/>
@@ -20583,6 +22676,31 @@
      <link out="Ears_MP" in="LEar-P"/>
      <link out="Ears_MP" in="REar-P"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     <link out="OL" in="Reveal_BandanaLineArt" inport="0"/>
+     <link out="CA_2" in="Reveal_BandanaColorArt" inport="0"/>
+     <link out="Reveal_BandanaLineArt" in="Bandana_Comp" inport="3"/>
+     <link out="Reveal_BandanaColorArt" in="Bandana_Comp" inport="2"/>
+     <link out="OL_1Back" in="Reveal_BandanaLineArt_1Back" inport="0"/>
+     <link out="Reveal_BandanaLineArt_1Back" in="Bandana_Comp" inport="1"/>
+     <link out="Reveal_BandanaColorArt_1Back" in="Bandana_Comp" inport="0"/>
+     <link out="CA_3Back" in="Reveal_BandanaColorArt_1Back" inport="0"/>
+    </linkedlist>
+    <backdrops>
+     <backdrop topLeft="1873,-996" bottomRight="3502,-405">
+      <background color="#C11717FF"/>
+      <title text="Bandana" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="3660,-1176" bottomRight="3989,-626">
+      <background color="#7B8D03FF"/>
+      <title text="Torso" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="4246,-822" bottomRight="4488,-676">
+=======
+>>>>>>> main
      <link out="Mouth-P" in="Mouth" inport="0"/>
      <link out="Nose-P" in="Nose" inport="0"/>
      <link out="Tongue-P" in="Tongue" inport="0"/>
@@ -20661,6 +22779,7 @@
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="3218,-770" bottomRight="3460,-624">
+<<<<<<< HEAD
 =======
      <link out="OL" in="Reveal_BandanaLineArt" inport="0"/>
      <link out="CA_2" in="Reveal_BandanaColorArt" inport="0"/>
@@ -20683,20 +22802,29 @@
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
      <backdrop topLeft="4246,-822" bottomRight="4488,-676">
+=======
+>>>>>>> main
 >>>>>>> main
       <background color="#323232FF"/>
       <title text="Waist" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <backdrop topLeft="3155,-859" bottomRight="3979,-474">
 =======
      <backdrop topLeft="4183,-911" bottomRight="5007,-526">
+=======
+     <backdrop topLeft="4183,-911" bottomRight="5007,-526">
+=======
+     <backdrop topLeft="3155,-859" bottomRight="3979,-474">
+>>>>>>> main
 >>>>>>> main
       <background color="#81C615FF"/>
       <title text="Pants" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
+<<<<<<< HEAD
 <<<<<<< HEAD
      <backdrop topLeft="8640,-468" bottomRight="8940,-332">
       <background color="#6C0E9CFF"/>
@@ -20706,6 +22834,8 @@
      <backdrop topLeft="141,-961" bottomRight="285,-861">
       <background color="#323232FF"/>
 =======
+=======
+>>>>>>> main
      <backdrop topLeft="5145,-883" bottomRight="5443,-643">
       <background color="#E16B14FF"/>
       <title text="Arm" color="#000000FF" size="12" font="Arial"/>
@@ -20728,6 +22858,17 @@
      </backdrop>
      <backdrop topLeft="1298,-683" bottomRight="1468,-502">
       <background color="#6C0E9CFF"/>
+<<<<<<< HEAD
+=======
+=======
+     <backdrop topLeft="8640,-468" bottomRight="8940,-332">
+      <background color="#6C0E9CFF"/>
+      <title text="Creases" color="#000000FF" size="12" font="Arial"/>
+      <description text="" color="#000000FF" size="12" font="Arial"/>
+     </backdrop>
+     <backdrop topLeft="141,-961" bottomRight="285,-861">
+      <background color="#323232FF"/>
+>>>>>>> main
 >>>>>>> main
       <title text="" color="#000000FF" size="12" font="Arial"/>
       <description text="" color="#000000FF" size="12" font="Arial"/>
@@ -20763,10 +22904,13 @@
       <description text="PNG image Imports" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <backdrop topLeft="2753,-646" bottomRight="2955,-521">
       <background color="#7B8D03FF"/>
       <title text="Torso" color="#000000FF" size="12" font="Arial"/>
 =======
+=======
+>>>>>>> main
      <backdrop topLeft="473,-645" bottomRight="679,-520">
       <background color="#023CBEFF"/>
       <title text="Cheeks" color="#000000FF" size="12" font="Arial"/>
@@ -20775,6 +22919,13 @@
      <backdrop topLeft="188,-688" bottomRight="720,-499">
       <background color="#E30FA0FF"/>
       <title text="Mouth" color="#000000FF" size="12" font="Arial"/>
+<<<<<<< HEAD
+=======
+=======
+     <backdrop topLeft="2753,-646" bottomRight="2955,-521">
+      <background color="#7B8D03FF"/>
+      <title text="Torso" color="#000000FF" size="12" font="Arial"/>
+>>>>>>> main
 >>>>>>> main
       <description text="" color="#000000FF" size="12" font="Arial"/>
      </backdrop>
