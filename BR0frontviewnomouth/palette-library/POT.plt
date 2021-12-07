@@ -13,3 +13,4 @@ Solid    Eye_White                  0x0acf518c98503dcc 255 255 255 255
 Solid    Pupil_HL                   0x0acf518c98504003 255 255 255 255
 Solid    Invisible                  0x0ad24e9a47c035ab 255   0 199 142
 Solid    Background                 0x0adbc18b54d01cfb  91 117 130 255
+Solid    PuddleRain                 0x0ae0dbb0cc00277d   0 219 255 255
