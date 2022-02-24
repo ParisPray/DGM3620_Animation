@@ -17,3 +17,5 @@ Solid    PuddleRain                 0x0ae0dbb0cc00277d   0 219 255 255
 Solid    Background2                0x0ae245841790206d  33 162 133 255
 Solid    Ball                       0x0ae245841790a16c 217  32  60 255
 Solid    BallLine                   0x0ae245841790bc94 141  63  74 255
+Solid    DuckBill                   0x0b11486e926084e0 255 198  47 255
+Solid    Anvil                      0x0b11486e9260db81  92  92  92 255

@@ -1,0 +1,5 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/foxstartup LINK "C:/Users/paris/Documents/GitKraken/DGM3620_Animation/foxstartup/palette-library/foxstartup.plt"
+palette-library/foxstartup_pencil_texture LINK "C:/Users/paris/Documents/GitKraken/DGM3620_Animation/foxstartup/palette-library/foxstartup_pencil_texture.plt"
+palette-library/RiggingHW2_pencil_texture LINK "C:/Users/paris/Documents/GitKraken/DGM3620_Animation/foxstartup/palette-library/RiggingHW2_pencil_texture.plt"
+palette-library/POT LINK "C:/Users/paris/Documents/GitKraken/DGM3620_Animation/foxstartup/palette-library/POT.plt"
