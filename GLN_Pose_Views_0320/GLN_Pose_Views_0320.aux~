@@ -1,0 +1,252 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="GLN_Pose_Views_0320" Modified="2022-03-20 21:25:43" ID="1">
+ <Element Name="20220208_Glinda_Turnaround" ID="2" Folder="20220208_Glinda_Turnaround">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+ </Element>
+ <Element Name="Cheek" ID="3" Folder="Cheek"/>
+ <Element Name="Teeth_Up" ID="6" Folder="Teeth_Up"/>
+ <Element Name="Teeth_Dn" ID="7" Folder="Teeth_Dn"/>
+ <Element Name="Tongue" ID="8" Folder="Tongue"/>
+ <Element Name="Brow" ID="9" Folder="Brow">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupil" ID="10" Folder="Pupil">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Eye" ID="11" Folder="Eye">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Lens" ID="12" Folder="Lens">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Highlight" ID="13" Folder="Highlight">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bridge" ID="14" Folder="Bridge">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Nose" ID="16" Folder="Nose">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="Ear" ID="17" Folder="Ear">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Bk" ID="19" Folder="Hair_Bk">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Bk_Lock" ID="20" Folder="Hair_Bk_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Top" ID="21" Folder="Hair_Top">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="Hair_Top_Lock" ID="22" Folder="Hair_Top_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bangs" ID="23" Folder="Bangs">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bangs_Lock" ID="24" Folder="Bangs_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Side" ID="25" Folder="Hair_Side">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Side_Lock1" ID="26" Folder="Hair_Side_Lock1">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Side_Lock2" ID="27" Folder="Hair_Side_Lock2">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Up" ID="28" Folder="Hair_Braid_Up">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Up_Lock" ID="29" Folder="Hair_Braid_Up_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Mid" ID="30" Folder="Hair_Braid_Mid">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Mid_Lock" ID="31" Folder="Hair_Braid_Mid_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Dn" ID="32" Folder="Hair_Braid_Dn">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Dn_Lock" ID="33" Folder="Hair_Braid_Dn_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Neck" ID="34" Folder="Neck">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Torso" ID="35" Folder="Torso">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button1" ID="36" Folder="Button1">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button2" ID="37" Folder="Button2">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button3" ID="38" Folder="Button3">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Seam" ID="39" Folder="Seam">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Collar" ID="40" Folder="Collar">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Skirt" ID="41" Folder="Skirt">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Slit" ID="42" Folder="Slit">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Upper_Arm" ID="43" Folder="Upper_Arm">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Forearm" ID="44" Folder="Forearm">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hand" ID="45" Folder="Hand">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Sleeve" ID="46" Folder="Sleeve">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Upper_Leg" ID="47" Folder="Upper_Leg">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shin" ID="48" Folder="Shin">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shoe_FR" ID="49" Folder="Shoe_FR">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shoe_BK" ID="50" Folder="Shoe_BK">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Sketch_notes" ID="51" Folder="Sketch_notes">
+  <Drawing Key="" Name="Trace" Version="1"/>
+ </Element>
+ <Element Name="Edge_Highlight" ID="52" Folder="Edge_Highlight">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shoe_Tip" ID="54" Folder="Shoe_Tip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bridge" ID="55" Folder="Bridge.55"/>
+ <Element Name="Lens" ID="56" Folder="Lens.56"/>
+ <Element Name="Edge_Highlight" ID="57" Folder="Edge_Highlight.57"/>
+ <Element Name="Highlight" ID="58" Folder="Highlight.58"/>
+ <Element Name="Cheek" ID="59" Folder="Cheek.59"/>
+ <Element Name="Lip_Up" ID="60" Folder="Lip_Up.60"/>
+ <Element Name="Lip_Dn" ID="61" Folder="Lip_Dn.61">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Teeth_Up" ID="62" Folder="Teeth_Up.62"/>
+ <Element Name="Teeth_Dn" ID="63" Folder="Teeth_Dn.63"/>
+ <Element Name="Tongue" ID="64" Folder="Tongue.64"/>
+ <Element Name="Brow" ID="65" Folder="Brow.65"/>
+ <Element Name="Eye" ID="66" Folder="Eye.66"/>
+ <Element Name="Pupil" ID="67" Folder="Pupil.67"/>
+ <Element Name="Nose" ID="68" Folder="Nose.68">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ear" ID="69" Folder="Ear.69"/>
+ <Element Name="Head" ID="70" Folder="Head.70">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bangs" ID="71" Folder="Bangs.71">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Bangs_Lock" ID="72" Folder="Bangs_Lock.72"/>
+ <Element Name="Hair_Bk" ID="73" Folder="Hair_Bk.73">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Bk_Lock" ID="74" Folder="Hair_Bk_Lock.74"/>
+ <Element Name="Hair_Top" ID="75" Folder="Hair_Top.75">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Top_Lock" ID="76" Folder="Hair_Top_Lock.76">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Side" ID="77" Folder="Hair_Side.77">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Side_Lock2" ID="78" Folder="Hair_Side_Lock2.78">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Side_Lock1" ID="79" Folder="Hair_Side_Lock1.79"/>
+ <Element Name="Hair_Braid_Dn" ID="80" Folder="Hair_Braid_Dn.80">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Dn_Lock" ID="81" Folder="Hair_Braid_Dn_Lock.81">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Mid" ID="82" Folder="Hair_Braid_Mid.82">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Mid_Lock" ID="83" Folder="Hair_Braid_Mid_Lock.83">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hair_Braid_Up" ID="84" Folder="Hair_Braid_Up.84"/>
+ <Element Name="Hair_Braid_Up_Lock" ID="85" Folder="Hair_Braid_Up_Lock.85">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Neck" ID="86" Folder="Neck.86">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Collar" ID="87" Folder="Collar.87"/>
+ <Element Name="Button1" ID="88" Folder="Button1.88">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button2" ID="89" Folder="Button2.89">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Button3" ID="90" Folder="Button3.90">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Seam" ID="91" Folder="Seam.91"/>
+ <Element Name="Torso" ID="92" Folder="Torso.92"/>
+ <Element Name="Hand" ID="93" Folder="Hand.93"/>
+ <Element Name="Forearm" ID="94" Folder="Forearm.94"/>
+ <Element Name="Upper_Arm" ID="95" Folder="Upper_Arm.95"/>
+ <Element Name="Sleeve" ID="96" Folder="Sleeve.96"/>
+ <Element Name="Skirt" ID="97" Folder="Skirt.97">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Slit" ID="98" Folder="Slit.98"/>
+ <Element Name="Shoe_Tip" ID="99" Folder="Shoe_Tip.99">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shoe_FR" ID="100" Folder="Shoe_FR.100">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shoe_BK" ID="101" Folder="Shoe_BK.101">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Shin" ID="102" Folder="Shin.102">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Upper_Leg" ID="103" Folder="Upper_Leg.103">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Head_Trimmer" ID="104" Folder="Head_Trimmer">
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="Head_SYNC" ID="106" Folder="Head_SYNC">
+  <Drawing Key="" Name="FR" Version="1"/>
+  <Drawing Key="" Name="PR" Version="1"/>
+ </Element>
+ <Element Name="Lip_SYNC" ID="107" Folder="Lip_SYNC">
+  <Drawing Key="" Name="FR_H01" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
